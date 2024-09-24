@@ -1,0 +1,3 @@
+# Robot 17: Chase Lowest Health Player, Dodge Everyone Else
+
+Let's do yet another twist on our last code. Here, let's create a function named `get_lowest_hp_player()`, which will return the player in the arena with the least amount of health. Then, we will constantly be chasing that player, but we will flee everyone else in our way. This approach makes us an expert hunter as we are selective with our targets, and avoids us from taking unnecessary damage by getting into fights along the way.
