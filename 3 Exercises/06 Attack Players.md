@@ -14,7 +14,9 @@ The variable `nearest_player` is available to you to use. It functions similarly
 
 The **sword** is the most basic offensive weapon. If a player gets close enough to you (the red zone pictured above), then your sword will automatically swing at them. If you want to attack someone, you just need to get close to them.
 
-![](https://storage.googleapis.com/cm-image-repository.appspot.com/cm_clash/Exercises/6%20Attack%20Players/dd97dcd3-5f2d-4990-bf6f-87fd99f1443e.png)
+![](https://storage.googleapis.com/cm-image-repository.appspot.com/cm_clash/3%20Exercises/06%20Attack%20Players/029b4b8e-e54d-43b9-b614-feeb7c88800f.png)
+
+**NOTE** that the sword drains twice as much energy per use as the claw does! So be careful with stacking too many swords.
 
 ## The Goal
 

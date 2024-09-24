@@ -10,4 +10,4 @@ These are **healing** items that will heal you for 20 health. When collecting an
 
 ## Goal
 
-Using `nearest_heal`, `nearest_player`, and `nearest_item`, create a robot that can do all 3. As with last time, ensure that these actions are given priorities.
+Using `nearest_heal`, `nearest_player`, and `nearest_item`, create a robot that can do all 3. As with last time, ensure that these actions are given priorities. What's the most important action that you think your robot should do?
